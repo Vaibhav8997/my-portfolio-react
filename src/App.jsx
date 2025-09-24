@@ -2,12 +2,13 @@ import React from 'react';
 import './App.css';
 import Navbar from "./components/Navbar"
 import Hero from './components/Hero';
+import About from './components/About';
 function App() {
   return (
     <div>
      <Navbar />
      <Hero />
-     <h1>My portfolio</h1>
+     <About />
     </div>
   );
 }

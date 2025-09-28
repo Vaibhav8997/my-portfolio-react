@@ -8,7 +8,7 @@ function About() {
         {/* Left: Profile Image */}
         <div className="about-image">
           <img
-            src="https://via.placeholder.com/300"
+            src="/profile.png"
             alt="profile"
           />
         </div>
@@ -21,11 +21,11 @@ function About() {
           </p>
 
           {/* Skills */}
-          <div className="skills">
+          {/* <div className="skills">
             <span>React</span>
             <span>JavaScript</span>
             <span>CSS</span>
-          </div>
+          </div> */}
 
           {/* Button */}
           <a href="#" className="btn">GitHub Profile</a>

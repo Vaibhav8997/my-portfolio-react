@@ -51,12 +51,18 @@
     border-radius: 5px;
     margin: 0.2rem;
     font-size: 0.85rem;
+    transition: background-color 0.3s;
+}
+
+.tech-item:hover {
+    background-color: #005bb5;
 }
 
 .project-links a {
     margin-right: 1rem;
     color: #0078d6;
     text-decoration: none;
+    font-size: 1.2em;
     font-weight: 500;
     display: inline-flex;
     align-items: center;

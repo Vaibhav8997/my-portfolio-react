@@ -28,7 +28,7 @@ function About() {
           </div>
 
           {/* Button */}
-          <a href="#" className="btn">Download CV</a>
+          <a href="#" className="btn">GitHub Profile</a>
         </div>
       </div>
     </section>
